@@ -1,0 +1,19 @@
+ul{
+    display: inline-flex;
+    margin: 20px;
+}
+li{
+    background: greenyellow;
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+    font-size: 20px;
+    font-family: monospace;
+}
+.logo_header{
+    width: 250px;
+    display: inline-block;
+}
+.m_header{
+    display: inline-flex;
+}
